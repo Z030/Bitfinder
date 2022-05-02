@@ -1,6 +1,6 @@
 # Bitfinder
 
-Bitfinder is working a bitcoin wallet checker.
+Bitfinder is advanced fake bitcoin wallet checker.
 
 ![unknown (1)](https://user-images.githubusercontent.com/93740943/166315590-b1716131-8ba7-449f-8de7-94287122efbc.png)
 
